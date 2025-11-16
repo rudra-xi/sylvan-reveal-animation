@@ -34,7 +34,7 @@ Feel free to modify the CSS styles and GSAP animations to tailor the look and fe
 
 ## Author
 
-***[Rudra-xi](https://github.com/rudra-xi)***
+***[rudra-xi](https://github.com/rudra-xi)***
 
 ## License
 
